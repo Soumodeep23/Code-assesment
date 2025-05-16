@@ -56,7 +56,7 @@ README.md
 
 ---
 
-**Author:** [Your Name]
+**Author:** Soumodeep Banerjee
 
-**License:** MIT (or specify your own)
+**License:** 
 
